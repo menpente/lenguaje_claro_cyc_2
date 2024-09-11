@@ -1,7 +1,14 @@
-Vamos a aprender a evaluar modelos de manera sistemática
+Vamos a aprender a escoger y evaluar modelos de manera sistemática
 
-* Evaluación mediante métricas
-* LLMs como evaluadores
+A la hora de escoger, no siempre necesitamos decantarnos por el modelo más potente. También hay que considerar:
+* coste (por uso o por equipo)
+* velocidad
+* transparencia
+Los _small language models_ son chiquitos pero matones ;) [https://www.salesforce.com/blog/small-language-models/]
+  
+Para evaluar, podemos:
+* Recurrir a métricas (con texto de referencia o sin él)
+* Utilizar LLMs como evaluadores de otros LLMs
 
 ## Referencias
 * [https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation] faithfulness
