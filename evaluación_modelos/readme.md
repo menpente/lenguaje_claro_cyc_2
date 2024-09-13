@@ -8,6 +8,7 @@ Los _small language models_ son chiquitos pero matones ;) [https://www.salesforc
   
 Para evaluar, podemos:
 * Recurrir a métricas (con texto de referencia o sin él)
+* Utilizar benchmarks
 * Utilizar LLMs como evaluadores de otros LLMs
 
 ## Referencias
