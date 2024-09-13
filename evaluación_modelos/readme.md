@@ -8,7 +8,7 @@ Los _small language models_ son chiquitos pero matones ;) [https://www.salesforc
   
 Para evaluar, podemos:
 * Utilizar benchmarks (datos de prueba para tareas pre-existentes)
-* Recurrir a métricas (idealmente que sean específicas para la tarea, o al menos similar)
+* Recurrir a métricas (idealmente que sean específicas para la tarea, como GEval, o al menos para tareas similares)
 * Utilizar LLMs como evaluadores de otros LLMs
 
 En nuestras pruebas lo ideal es guardar un registro, por ejemplo en Excel, del modelo probado y los valores obtenidos
